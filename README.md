@@ -1,6 +1,6 @@
 bunch
 =====
-This for is a litle patch to support Python 3.4
+This fork is a litle patch to support Python 3.4
 
 Bunch is a dictionary that supports attribute-style access, a la JavaScript.
 
